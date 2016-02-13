@@ -5,6 +5,10 @@
  */
  
 #include <Servo.h>
+
+/**
+ * @see https://github.com/rocketscream/Low-Power
+ */
 #include <LowPower.h>
 
 // Run for 10 min, then power down. Press the reset button to start it again.
